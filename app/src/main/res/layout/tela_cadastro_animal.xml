@@ -107,7 +107,7 @@
             android:layout_marginTop="20dp"
             android:layout_marginRight="10dp"
             android:height="60dp"
-            android:backgroundTint="#FEBC59"
+            android:backgroundTint="#FCA22A"
             android:text="Cadastrar animal" />
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>

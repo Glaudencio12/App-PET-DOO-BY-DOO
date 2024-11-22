@@ -11,7 +11,7 @@
     <LinearLayout
         android:layout_width="409dp"
         android:layout_height="729dp"
-        android:background="@drawable/login"
+        android:background="@drawable/design_login"
         android:orientation="vertical"
         tools:layout_editor_absoluteX="1dp"
         tools:layout_editor_absoluteY="1dp">
@@ -21,7 +21,7 @@
             android:layout_width="match_parent"
             android:layout_height="200dp"
             android:layout_marginTop="20dp"
-            app:srcCompat="@drawable/icone" />
+            app:srcCompat="@drawable/icone_login" />
 
         <TextView
             android:id="@+id/textView"
@@ -75,7 +75,7 @@
             android:layout_marginTop="20dp"
             android:layout_marginRight="10dp"
             android:height="60dp"
-            android:backgroundTint="#FEBC59"
+            android:backgroundTint="#FCA22A"
             android:text="ENTRAR"
             android:textColor="#141313"
             app:strokeColor="#141313" />
@@ -96,7 +96,7 @@
             android:layout_marginLeft="10dp"
             android:layout_marginRight="10dp"
             android:height="60dp"
-            android:backgroundTint="#FEBC59"
+            android:backgroundTint="#FCA22A"
             android:text="CADASTRAR"
             android:textColor="#141313"
             app:strokeColor="#141313" />
