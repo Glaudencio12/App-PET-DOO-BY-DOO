@@ -12,5 +12,5 @@
 - Os dados demonstrados nesta tela servem como modelo para ilustrar a disposição dos agendamentos futuros.
 
 ### Arquivos referentes ao Banco de Dados
-- Os arquivos referentes ao banco de dadosm, tanto na forma de imagem quanto de arquivo, foram anexados junto ao projeto.
+- Os arquivos referentes ao banco de dadosm, tanto na forma de imagem, quanto de arquivo, foram anexados junto ao projeto.
 - Esses arquivos são constituidos por um arquivo referente ao Modelo Diagrama Entidade Relacionamento e sua respectiva imagem, e outro referente ao Modelo Relacional com sua respectiva imagem.
