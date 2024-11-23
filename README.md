@@ -1,12 +1,12 @@
 # **App - PET DOO BY DOO**
 
-# ** Integrantes do grupo:
+# ** Integrantes do grupo: **
 - Glaudencio da Costa Meneses;
 - Matheus de Lima Carvalho;
 - Francisco das Chagas de Oliveira Sousa;
 - João Gabriel Silva Sousa;
 - João Gabriel Lima Aguiar;
-- Fabrício Henrique da Costa Silva. **
+- Fabrício Henrique da Costa Silva. 
   
 # ** Ideia principal do aplicativo: Petshop**
 
