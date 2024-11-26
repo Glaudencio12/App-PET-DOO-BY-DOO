@@ -23,7 +23,7 @@
             android:minHeight="?attr/actionBarSize"
             android:theme="?attr/actionBarTheme"
             app:title="Realizar Agendamento"
-            app:titleTextColor="#FAFAFA" />
+            app:titleTextColor="#000000" />
 
         <TextView
             android:id="@+id/textView8"
