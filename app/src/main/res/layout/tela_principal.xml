@@ -31,7 +31,7 @@
             android:layout_height="190dp"
             app:srcCompat="@drawable/icone_login" />
 
-        <!-- Texto do título -->
+
         <TextView
             android:id="@+id/textView"
             android:layout_width="match_parent"
@@ -42,7 +42,7 @@
             android:textSize="34sp"
             android:textStyle="bold" />
 
-        <!-- Texto de saudação -->
+
         <TextView
             android:id="@+id/textView4"
             android:layout_width="match_parent"
@@ -54,7 +54,7 @@
             android:textSize="20sp"
             android:textStyle="bold" />
 
-        <!-- Botões -->
+
         <Button
             android:id="@+id/button5"
             android:layout_width="match_parent"
