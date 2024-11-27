@@ -3,16 +3,14 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
+    android:id="@+id/limpeza"
     android:layout_height="match_parent">
 
     <LinearLayout
-        tools:layout_editor_absoluteX="1dp"
-        tools:layout_editor_absoluteY="1dp"
-        android:layout_width="409dp"
-        android:layout_height="729dp"
-        android:background="@drawable/design_login"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
         android:orientation="vertical"
-        tools:ignore="MissingConstraints">
+        android:background="@drawable/design_login">
 
         <TextView
             android:id="@+id/textView5"
@@ -28,6 +26,7 @@
             android:id="@+id/imageView13"
             android:layout_width="match_parent"
             android:layout_height="204dp"
+            android:layout_marginBottom="15dp"
             app:srcCompat="@drawable/imagem_limpezacompleta" />
 
         <TextView
