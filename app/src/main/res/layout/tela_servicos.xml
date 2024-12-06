@@ -40,6 +40,7 @@
             android:layout_marginRight="10dp"
             android:height="70dp"
             android:backgroundTint="#FCA22A"
+            android:onClick="telaDescricaoBanho"
             android:text="BANHO"
             android:textColor="#FFFFFF" />
 
@@ -52,6 +53,7 @@
             android:layout_marginRight="10dp"
             android:height="70dp"
             android:backgroundTint="#FCA22A"
+            android:onClick="telaDescricaotosa"
             android:text="TOSA"
             android:textColor="#FFFFFF" />
 
@@ -64,6 +66,7 @@
             android:layout_marginRight="10dp"
             android:height="70dp"
             android:backgroundTint="#FCA22A"
+            android:onClick="telaDescricaoHidratacao"
             android:text="HIDRATAÇÃO"
             android:textColor="#FFFFFF" />
 
@@ -76,6 +79,7 @@
             android:layout_marginRight="10dp"
             android:height="70dp"
             android:backgroundTint="#FCA22A"
+            android:onClick="telaDescricaoLimpezaCompleta"
             android:text="LIMPEZA COMPLETA"
             android:textColor="#FFFFFF" />
 
@@ -88,6 +92,7 @@
             android:layout_marginRight="10dp"
             android:height="70dp"
             android:backgroundTint="#FCA22A"
+            android:onClick="telaDescricaoConsulta"
             android:text="CONSULTA"
             android:textColor="#FFFFFF" />
 
