@@ -1,7 +1,9 @@
 
 package com.example.petshop;
 
+import android.content.Intent;
 import android.os.Bundle;
+import android.view.View;
 
 import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
@@ -22,4 +24,30 @@ public class tela_servicosActivity extends AppCompatActivity {
             return insets;
         });
     }
+
+    public void telaDescricaoBanho(View v){
+        Intent tela_descricao_banho = new Intent(this, descricao_banhoActivity.class);
+        startActivity(tela_descricao_banho);
+    }
+
+    public void telaDescricaoConsulta(View v){
+        Intent tela_descricao_consulta = new Intent(this, descricao_consultaActivity.class);
+        startActivity(tela_descricao_consulta);
+    }
+
+    public void telaDescricaoHidratacao(View v){
+        Intent tela_descricao_hidratacao = new Intent(this, descricao_hidratacaoActivity.class);
+        startActivity(tela_descricao_hidratacao);
+    }
+
+    public void telaDescricaoLimpezaCompleta(View v){
+        Intent tela_descricao_limpeza_compl = new Intent(this, descricao_limpeza_completaActivity.class);
+        startActivity(tela_descricao_limpeza_compl);
+    }
+
+    public void telaDescricaotosa(View v){
+        Intent tela_descricao_tosa = new Intent(this, descricao_tosaActivity.class);
+        startActivity(tela_descricao_tosa);
+    }
+
 }
